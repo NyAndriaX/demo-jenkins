@@ -1,0 +1,13 @@
+# Fichiers et dossiers à ignorer lors de la construction Docker
+.git
+.gitignore
+README.md
+*.md
+target/
+.settings/
+.project
+.classpath
+*.sh
+Dockerfile
+docker-compose.yml
+.dockerignore
